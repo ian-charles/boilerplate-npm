@@ -12,5 +12,9 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Ian Charles",
-	"description": "A tiny little project that Ian is doing to learn the basics of npm."
+	"description": "A tiny little project that Ian is doing to learn the basics of npm.",
+	"keywords": ["freecodecamp", "cool", "awesome", "learning"],
+	"license": "MIT",
+	"version": "1.0.0"
+
 }
