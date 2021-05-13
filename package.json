@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Ian Charles"
+	"author": "Ian Charles",
+	"description": "A tiny little project that Ian is doing to learn the basics of npm."
 }
